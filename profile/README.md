@@ -20,9 +20,4 @@ Our mission is simple but ambitious: to assist companies in harnessing the poten
 - **Innovative Mindset:** We're constantly exploring new technologies and methodologies to stay at the forefront of software development.
 - **Social Responsibility:** As a company, we're deeply committed to making a positive impact on society and the environment.
 
-## Connect With Us:
-- 📧 Email: [info@novac.com.br](mailto:info@novac.com.br)
-- 🌐 Website: [www.novac.com.br](http://www.novac.com.br)
-- 📱 Social Media: Follow us on [LinkedIn](#), [Twitter](#), and [Facebook](#) for updates and insights.
-
 🔗 _Explore our repositories to see our projects in action and learn more about how we're using technology to create a better tomorrow!_
